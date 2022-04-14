@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DownloadingData.iml" filepath="$PROJECT_DIR$/.idea/DownloadingData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HackerNewsAPI/.idea/HackerNewsAPI.iml" filepath="$PROJECT_DIR$/../HackerNewsAPI/.idea/HackerNewsAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../WebApplications/.idea/WebApplications.iml" filepath="$PROJECT_DIR$/../../WebApplications/.idea/WebApplications.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WorkingWithAPIs/.idea/WorkingWithAPIs.iml" filepath="$PROJECT_DIR$/../WorkingWithAPIs/.idea/WorkingWithAPIs.iml" />
+    </modules>
+  </component>
+</project>

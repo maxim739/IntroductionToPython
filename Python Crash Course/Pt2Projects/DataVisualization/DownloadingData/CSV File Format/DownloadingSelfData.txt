@@ -1,0 +1,8 @@
+If you want to download your own data from NOAA:
+1) Visit NOAA climate date online site, In "Discover Data By" section, click "Search Tool", In "Select a Data Set" choose daily summaries
+2) Select a date range, in "search for" section choose "Zip codes", enter a zip code, and press search
+3) On the next page you will see info on that area, below location name click "View Full Details" or click map and select "View Details"
+4) Scroll and clich "Station List" to see stations which are avaliable in that area, and click "Add to cart"
+5) In select output, choose "Custom GHCN-Daily CSV", make sure data range is correct, and pres continue
+6) Select which kind of data you want, and click continue
+7) Submit order with email adress, and you will get link of data

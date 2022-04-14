@@ -1,0 +1,2 @@
+When you write a function or class you will want to test it, and in this chapter you will test code
+Here you will learn to test using the python unittest module

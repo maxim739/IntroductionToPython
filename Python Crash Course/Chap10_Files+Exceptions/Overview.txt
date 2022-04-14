@@ -1,0 +1,6 @@
+Here we learn about how to write easy, efficient programs which now can be made more relevant and useful.
+	In this chapter we will work with files that can quickly analyze lots of data
+Learn to handle unexpected situations and errors, as well as the json module which stores data when the code has stopped running
+This makes your programs easier to use as people can work with files and enter data, and then exit the program and pick up where they left off.
+Also learn how to deal with files that dont exist and why programs crash
+This makes the program robust when it encounters bad data and malicious attempts occur. 

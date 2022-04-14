@@ -1,0 +1,3 @@
+In this chapter we learned how to work with files, read an entire file, read a file one line at a time.
+How to append to a file
+Read about exceptions and how to handle them, as well as learned to store data structures and store data after the code stops

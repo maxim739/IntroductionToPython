@@ -1,0 +1,5 @@
+Python has a set of tools for developing websites with django, which we will use to develop a project called learning log to keep track of info you've learned
+1) Well write a spec for this project
+2) Define models for this project to work with
+3) Use django admin system to enter some initial data
+4) Learn to write reviews and templates so django can build site pages

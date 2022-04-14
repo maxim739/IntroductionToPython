@@ -1,0 +1,16 @@
+When beginning we need to describe the project in a specification or spec, and set up a virtual environment to build the project
+
+Writing a spec:
+	A full spec describes he project goals and project fucntionality
+Here we will write a n app called Learning Log that allows uses to log the topics they're intreseted in 
+and to make journal entries as they learn about each topic. The learning log home page will descibe the 
+site and invite users to log in or sign up. Once logged in a user can create new topics, add new entries, 
+and read and edit existing entries
+
+Creating a virtual environment:
+A virtual environment is a place on your system where you can install packages and isolate them from all ther python packages
+
+create a new directory for your project called laearning_log, switch to that directory in terminal, and enter the following code to create a virtual environment
+
+python -m venv ll_env
+
